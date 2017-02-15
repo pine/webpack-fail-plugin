@@ -14,10 +14,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TiddoLangerak/webpack-fail-plugin.git"
+    "url": "git+https://github.com/pine/webpack2-fail-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/TiddoLangerak/webpack-fail-plugin/issues"
+    "url": "https://github.com/pine/webpack2-fail-plugin/issues"
   },
-  "homepage": "https://github.com/TiddoLangerak/webpack-fail-plugin#readme"
+  "homepage": "https://github.com/pine/webpack2-fail-plugin#readme"
 }
