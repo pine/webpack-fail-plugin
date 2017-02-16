@@ -1,6 +1,6 @@
 {
   "name": "webpack2-fail-plugin",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Webpack2 plugin that makes the process return an error code on failure",
   "main": "index.js",
   "engines": {
