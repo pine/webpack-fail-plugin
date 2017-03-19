@@ -1,3 +1,5 @@
+:bangbang: **DEPRECATED: Webpack 2 fails with exit code non-zeo by default** :bangbang:
+
 Webpack plugin that will make the process return status code 1 when it finishes with errors in single-run mode.
 
 ## Install
